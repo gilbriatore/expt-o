@@ -2,42 +2,42 @@
 
 Software desenvolvido como requisito parcial no Mestrado em Biotecnologia da Universidade Positivo.
 
-Orientador Prof. Dr. Ilton Santos da Silva
-Coorientador Prof. Dr. Alessandro Brawerman
-Mestrando e desenvolvedor Geucimar Brilhador
-
-Linguagem: C++
-Framework: Qt
-Library: PointCloud 3D
-
+Orientador Prof. Dr. Ilton Santos da Silva<br>
+Coorientador Prof. Dr. Alessandro Brawerman<br>
+Mestrando e desenvolvedor Geucimar Brilhador<br>
+<br>
+Linguagem: C++<br>
+Framework: Qt<br>
+Library: PointCloud 3D<br>
+<br>
 # Pastas:
-download: arquivo zip com a versão executável do projeto.
-src_2d: código fonte da versão de captura e rastreamento 2D.
-src_3d: código fonte da versão de captura e rastreamento 3D.
-src_bkp: outras versões.
-telas: capturas de telas do software.
+download: arquivo zip com a versão executável do projeto.<br>
+src_2d: código fonte da versão de captura e rastreamento 2D.<br>
+src_3d: código fonte da versão de captura e rastreamento 3D.<br>
+src_bkp: outras versões.<br>
+telas: capturas de telas do software.<br>
 
 # Requisitos:
 Para captura de dados o software requer o Kinect.
 
 # Telas:
-01. Tela de rastreamento
+01. Tela de rastreamento<br>
 ![Tela de rastreamento](https://github.com/gilbriatore/expt-o/telas/01_rastreamento.jpg?raw=true
 <br>
-02. Tela de rastreamento
+02. Tela de rastreamento<br>
 ![Tela de rastreamento](https://github.com/gilbriatore/expt-o/telas/07_captura_01.jpg?raw=true
 <br>
-03. Tela da arena
+03. Tela da arena<br>
 ![Tela da arena](https://github.com/gilbriatore/expt-o/telas/02_arena.jpg?raw=true
 <br>
-04. Tela de detecção
+04. Tela de detecção<br>
 ![Tela de detecção](https://github.com/gilbriatore/expt-o/telas/03_deteccao.jpg?raw=true
 <br>
-05. Tela de histórico
+05. Tela de histórico<br>
 ![Tela de histórico](https://github.com/gilbriatore/expt-o/telas/04_historico.jpg?raw=true
 <br>
-06. Tela de configurações
+06. Tela de configurações<br>
 ![Tela de configurações](https://github.com/gilbriatore/expt-o/telas/05_configuracoes.jpg?raw=true
 <br>
-07. Tela sobre
+07. Tela sobre<br>
 ![Tela sobre](https://github.com/gilbriatore/expt-o/telas/06_sobre.jpg?raw=true
