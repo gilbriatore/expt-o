@@ -1,0 +1,15 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: D:/Expt-o/ExptoXYZRGBA/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_4cea4\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_4cea4.dir\build.make /nologo -L                  CMakeFiles\cmTC_4cea4.dir\build
+Building C object CMakeFiles/cmTC_4cea4.dir/CheckIncludeFile.c.obj
+	C:\PROGRA~2\MICROS~3\2017\ENTERP~1\VC\Tools\MSVC\1416~1.270\bin\HostX86\x64\cl.exe @C:\Users\gil\AppData\Local\Temp\nmA433.tmp
+CheckIncludeFile.c
+D:\Expt-o\ExptoXYZRGBA\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Não é possível abrir arquivo incluir: 'pthread.h': No such file or directory
+NMAKE : fatal error U1077: 'C:\PROGRA~2\MICROS~3\2017\ENTERP~1\VC\Tools\MSVC\1416~1.270\bin\HostX86\x64\cl.exe' : c¾digo de retorno '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe"' : c¾digo de retorno '0x2'
+Stop.
+
+

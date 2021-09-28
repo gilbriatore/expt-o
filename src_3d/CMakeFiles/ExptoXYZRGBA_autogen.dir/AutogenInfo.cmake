@@ -1,0 +1,33 @@
+# Directories and files
+set(AM_CMAKE_BINARY_DIR "D:/GitHub/cpp/ExptoXYZRGBA/build/")
+set(AM_CMAKE_SOURCE_DIR "D:/GitHub/cpp/ExptoXYZRGBA/")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "D:/GitHub/cpp/ExptoXYZRGBA/")
+set(AM_CMAKE_CURRENT_BINARY_DIR "D:/GitHub/cpp/ExptoXYZRGBA/build/")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "D:/GitHub/cpp/ExptoXYZRGBA/build/ExptoXYZRGBA_autogen")
+set(AM_SOURCES "D:/GitHub/cpp/ExptoXYZRGBA/main.cpp;D:/GitHub/cpp/ExptoXYZRGBA/MainWindow.cpp;D:/GitHub/cpp/ExptoXYZRGBA/util/Logger.cpp;D:/GitHub/cpp/ExptoXYZRGBA/util/MMF.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/VideoQVTKOpenGLWidget.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/ClusteringWidget.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/ClusteringOptionWidget.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/TrackingWidget.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/FileWidget.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/CaptureWidget.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/FilterOptionWidget.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/MinCutOptionWidget.cpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/SegmentationOptionWidget.cpp")
+set(AM_HEADERS "D:/GitHub/cpp/ExptoXYZRGBA/MainWindow.h;D:/GitHub/cpp/ExptoXYZRGBA/kinect/KinectSensor.hpp;D:/GitHub/cpp/ExptoXYZRGBA/kinect/KinectTypes.hpp;D:/GitHub/cpp/ExptoXYZRGBA/kinect/KinectCloud.hpp;D:/GitHub/cpp/ExptoXYZRGBA/util/Logger.h;D:/GitHub/cpp/ExptoXYZRGBA/util/Defines.h;D:/GitHub/cpp/ExptoXYZRGBA/util/MMF.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/RemoveNaNs.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/Resampling.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/Compression.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/PassthroughFilter.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/Reconstruction.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/RANSAC.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/Centroid.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/Covariance.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/RadiusOutlier.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/EuclideanCluster.hpp;D:/GitHub/cpp/ExptoXYZRGBA/track/ColorRegion.hpp;D:/GitHub/cpp/ExptoXYZRGBA/widget/VideoQVTKOpenGLWidget.h;D:/GitHub/cpp/ExptoXYZRGBA/widget/ClusteringWidget.h;D:/GitHub/cpp/ExptoXYZRGBA/widget/ClusteringOptionWidget.h;D:/GitHub/cpp/ExptoXYZRGBA/widget/TrackingWidget.h;D:/GitHub/cpp/ExptoXYZRGBA/widget/FileWidget.h;D:/GitHub/cpp/ExptoXYZRGBA/widget/CaptureWidget.h;D:/GitHub/cpp/ExptoXYZRGBA/widget/FilterOptionWidget.h;D:/GitHub/cpp/ExptoXYZRGBA/widget/MinCutOptionWidget.h;D:/GitHub/cpp/ExptoXYZRGBA/widget/SegmentationOptionWidget.h")
+# Qt environment
+set(AM_QT_VERSION_MAJOR "5")
+set(AM_QT_MOC_EXECUTABLE "C:/Qt/Qt5.10/5.10.0/msvc2017_64/bin/moc.exe")
+set(AM_QT_UIC_EXECUTABLE )
+set(AM_QT_RCC_EXECUTABLE )
+# MOC settings
+set(AM_MOC_SKIP "")
+set(AM_MOC_DEFINITIONS "BOOST_ALL_NO_LIB;DISABLE_DAVIDSDK;DISABLE_DSSDK;DISABLE_ENSENSO;DISABLE_OPENNI;DISABLE_OPENNI2;DISABLE_PCAP;DISABLE_PNG;DISABLE_RSSDK;GLEW_STATIC;QT_CONCURRENT_LIB;QT_CORE_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_NO_DEBUG;QT_SQL_LIB;QT_WIDGETS_LIB;qh_QHpointer;qh_QHpointer_dllimport;vtkDomainsChemistry_AUTOINIT=1(vtkDomainsChemistryOpenGL2);vtkIOExport_AUTOINIT=1(vtkIOExportOpenGL2);vtkIOGeometry_AUTOINIT=1(vtkIOMPIParallel);vtkIOImage_AUTOINIT=1(vtkIOMPIImage);vtkIOParallel_AUTOINIT=1(vtkIOMPIParallel);vtkRenderingContext2D_AUTOINIT=1(vtkRenderingContextOpenGL2);vtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2);vtkRenderingOpenGL2_AUTOINIT=1(vtkRenderingGL2PSOpenGL2);vtkRenderingVolume_AUTOINIT=1(vtkRenderingVolumeOpenGL2)")
+set(AM_MOC_INCLUDES "D:/GitHub/cpp/ExptoXYZRGBA/build;D:/GitHub/cpp/ExptoXYZRGBA;D:/GitHub/cpp/ExptoXYZRGBA/build/ExptoXYZRGBA_autogen/include;C:/Program Files/VTK/include/vtk-8.0;C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/include;C:/Program Files (x86)/Microsoft SDKs/MPI/include;C:/Qt/Qt5.10/5.10.0/msvc2017_64/include;C:/Qt/Qt5.10/5.10.0/msvc2017_64/include/QtCore;C:/Qt/Qt5.10/5.10.0/msvc2017_64/./mkspecs/win32-msvc;C:/Qt/Qt5.10/5.10.0/msvc2017_64/include/QtWidgets;C:/Qt/Qt5.10/5.10.0/msvc2017_64/include/QtGui;C:/Qt/Qt5.10/5.10.0/msvc2017_64/include/QtANGLE;C:/Qt/Qt5.10/5.10.0/msvc2017_64/include/QtNetwork;C:/Qt/Qt5.10/5.10.0/msvc2017_64/include/QtConcurrent;C:/Program Files/Microsoft SDKs/Kinect/v2.0_1409/inc;C:/Program Files/PCL/include/pcl-1.8;C:/Program Files/eigen/include/eigen3;C:/Program Files/boost/include/boost-1_65_1;C:/Program Files/flann/include;C:/Program Files/qhull/include;C:/Qt/Qt5.10/5.10.0/msvc2017_64/include/QtSql;C:/Program Files/VTK/include")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "FALSE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD "")
+# UIC settings
+set(AM_UIC_SKIP )
+set(AM_UIC_TARGET_OPTIONS )
+set(AM_UIC_OPTIONS_FILES )
+set(AM_UIC_OPTIONS_OPTIONS )
+set(AM_UIC_SEARCH_PATHS )
+# RCC settings
+set(AM_RCC_SOURCES  )
+set(AM_RCC_INPUTS )
+set(AM_RCC_OPTIONS_FILES )
+set(AM_RCC_OPTIONS_OPTIONS )

@@ -1,0 +1,15 @@
+<Packages>
+    <ApplicationName>Expt-o Morris v.170526.0.1 (Beta)</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>morris</Name>
+        <Pixmap></Pixmap>
+        <Title>Expt-o Morris</Title>
+        <Description>Sistema de quantificação para experimentos realizados na piscina aquática de Morris.</Description>
+        <Version>170526.0.1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2017-05-26</InstallDate>
+        <Size>296695696</Size>
+        <Dependencies></Dependencies>
+    </Package>
+</Packages>

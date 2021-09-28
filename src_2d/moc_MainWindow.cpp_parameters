@@ -1,0 +1,4 @@
+--compiler-flavor=msvc
+-o
+D:/Qt/Expto/build/moc_MainWindow.cpp
+D:/Qt/Expto/src/MainWindow.h
