@@ -24,8 +24,11 @@ telas: capturas de telas do software.<br>
 Para captura de dados o software requer o Kinect.
 
 # Telas:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 01. Tela de rastreamento<br>
-![Tela de rastreamento](https://github.com/gilbriatore/expt-o/blob/main/Telas/01_rastreamento.jpg?raw=true
+![Tela de rastreamento](https://github.com/gilbriatore/expt-o/raw/main/Telas/01_rastreamento.jpg
 <br>
 02. Tela de rastreamento<br>
 ![Tela de rastreamento](https://github.com/gilbriatore/expt-o/blob/telas/07_captura_01.jpg?raw=true
