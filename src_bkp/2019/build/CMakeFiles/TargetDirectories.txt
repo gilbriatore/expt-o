@@ -1,5 +1,0 @@
-D:/Expt-o/Expto2019/build/CMakeFiles/Expto_v.190420.0.4.dir
-D:/Expt-o/Expto2019/build/CMakeFiles/Qt5CopyBinaries.dir
-D:/Expt-o/Expto2019/build/CMakeFiles/edit_cache.dir
-D:/Expt-o/Expto2019/build/CMakeFiles/rebuild_cache.dir
-D:/Expt-o/Expto2019/build/CMakeFiles/Expto_v.190420.0.4_autogen.dir

@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>icons/arena.png</file>
-        <file>icons/plataforma.png</file>
-        <file>icons/select.png</file>
-    </qresource>
-</RCC>

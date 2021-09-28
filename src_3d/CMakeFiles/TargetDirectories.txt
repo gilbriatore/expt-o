@@ -1,5 +1,0 @@
-D:/GitHub/cpp/ExptoXYZRGBA/build/CMakeFiles/ExptoXYZRGBA.dir
-D:/GitHub/cpp/ExptoXYZRGBA/build/CMakeFiles/edit_cache.dir
-D:/GitHub/cpp/ExptoXYZRGBA/build/CMakeFiles/Qt5CopyBinaries.dir
-D:/GitHub/cpp/ExptoXYZRGBA/build/CMakeFiles/rebuild_cache.dir
-D:/GitHub/cpp/ExptoXYZRGBA/build/CMakeFiles/ExptoXYZRGBA_autogen.dir

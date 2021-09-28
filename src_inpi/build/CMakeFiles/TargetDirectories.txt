@@ -1,5 +1,0 @@
-D:/Expt-o/ExptoINPI/build/CMakeFiles/rebuild_cache.dir
-D:/Expt-o/ExptoINPI/build/CMakeFiles/ExptoINPI.dir
-D:/Expt-o/ExptoINPI/build/CMakeFiles/Qt5CopyBinaries.dir
-D:/Expt-o/ExptoINPI/build/CMakeFiles/edit_cache.dir
-D:/Expt-o/ExptoINPI/build/CMakeFiles/ExptoINPI_autogen.dir
