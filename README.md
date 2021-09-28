@@ -1,4 +1,4 @@
-# Expt-o: rastreamento animal em laboratório.
+# Expt-o: software para rastreamento de animal em laboratório.
 
 Software desenvolvido como requisito parcial no Mestrado em Biotecnologia da Universidade Positivo.
 
@@ -23,10 +23,10 @@ src_3d: código fonte da versão de captura e rastreamento 3D.<br>
 src_bkp: outras versões.<br>
 telas: capturas de telas do software.<br>
 
-# Requisitos:
-Para captura de dados o software requer o Kinect.
+# Requisitos
+Para captura de dados o software requer o Microsoft Kinect.
 
-# Telas:
+# Telas
 
 1. Tela de rastreamento<br>
 ![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/01_rastreamento.jpg "Tela de rastreamento")<br>
@@ -42,3 +42,6 @@ Para captura de dados o software requer o Kinect.
 ![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/05_configuracoes.jpg "Tela de configurações")<br>
 7. Tela sobre<br>
 ![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/06_sobre.jpg "Tela sobre")
+
+# Licença
+O código pode ser utilizado livremente desde que citado a fonte e os autores.
