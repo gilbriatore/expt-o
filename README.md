@@ -28,7 +28,7 @@ Para captura de dados o software requer o Kinect.
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 01. Tela de rastreamento<br>
-![Tela de rastreamento](https://github.com/gilbriatore/expt-o/raw/main/Telas/01_rastreamento.jpg
+![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/01_rastreamento.jpg "Tela de rastreamento")
 <br>
 02. Tela de rastreamento<br>
 ![Tela de rastreamento](https://github.com/gilbriatore/expt-o/blob/telas/07_captura_01.jpg?raw=true
