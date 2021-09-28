@@ -25,25 +25,23 @@ Para captura de dados o software requer o Kinect.
 
 # Telas:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-01. Tela de rastreamento<br>
+1. Tela de rastreamento<br>
 ![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/01_rastreamento.jpg "Tela de rastreamento")
 <br>
-02. Tela de rastreamento<br>
-![Tela de rastreamento](https://github.com/gilbriatore/expt-o/blob/telas/07_captura_01.jpg?raw=true
+2. Tela de rastreamento<br>
+![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/07_captura_01.jpg "Tela de rastreamento")
 <br>
-03. Tela da arena<br>
-![Tela da arena](https://github.com/gilbriatore/expt-o/blob/telas/02_arena.jpg?raw=true
+3. Tela da arena<br>
+![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/02_arena.jpg "Tela da arena")
 <br>
-04. Tela de detecção<br>
-![Tela de detecção](https://github.com/gilbriatore/expt-o/blob/main/telas/03_deteccao.jpg?raw=true
+4. Tela de detecção<br>
+![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/03_deteccao.jpg "Tela de detecção")
 <br>
-05. Tela de histórico<br>
-![Tela de histórico](https://github.com/gilbriatore/expt-o/blob/main/telas/04_historico.jpg?raw=true
+5. Tela de histórico<br>
+![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/04_historico.jpg "Tela de histórico")
 <br>
-06. Tela de configurações<br>
-![Tela de configurações](https://github.com/gilbriatore/expt-o/blob/main/telas/05_configuracoes.jpg?raw=true
+6. Tela de configurações<br>
+![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/05_configuracoes.jpg "Tela de configurações")
 <br>
-07. Tela sobre<br>
-![Tela sobre](https://github.com/gilbriatore/expt-o/blob/main/telas/06_sobre.jpg?raw=true
+7. Tela sobre<br>
+![alt text](https://github.com/gilbriatore/expt-o/raw/main/Telas/06_sobre.jpg "Tela sobre")
