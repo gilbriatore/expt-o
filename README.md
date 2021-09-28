@@ -11,7 +11,7 @@ Framework: Qt<br>
 Library: PointCloud 3D<br>
 <br>
 
-[Download Expt-o](https://github.com/gilbriatore/expt-o/blob/main/download/Expt-o.zip)
+[Download Expt-o](https://github.com/gilbriatore/expt-o/raw/main/download/Expt-o.zip)
 
 # Pastas:
 download: arquivo zip com a versão executável do projeto.<br>
