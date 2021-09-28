@@ -1,0 +1,70 @@
+************************************* Invoked: sex mai 26 15:09:03 2017
+[0] Arguments:  E:\InstaladorExpto\Instalador.exe
+[100] Operations sanity check succeeded.
+[28270] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "363.89 GiB"
+[28270] Installation space required: "538.95 MiB" Temporary space required: "256.00 MiB" Local repository size: "0.00 bytes"
+[29159] backup  operation: Mkdir
+[29159] \t- arguments: C:/Users/Ammir/Desktop/expto
+[29159] Done
+[29159] perform  operation: Mkdir
+[29159] \t- arguments: C:/Users/Ammir/Desktop/expto
+[29160] Done
+[29160] Install size: 1 components
+[29184] backup morris operation: Extract
+[29184] \t- arguments: installer://morris/170526.0.1content.7z, C:\\Users\\Ammir\\Desktop\\expto
+[29184] Done
+[29184] perform morris operation: Extract
+[29184] \t- arguments: installer://morris/170526.0.1content.7z, C:\\Users\\Ammir\\Desktop\\expto
+[41344] Done
+[41344] backup morris operation: Extract
+[41344] \t- arguments: installer://morris/170526.0.1data.7z, C:\\Users\\Ammir\\Desktop\\expto
+[41344] Done
+[41344] perform morris operation: Extract
+[41344] \t- arguments: installer://morris/170526.0.1data.7z, C:\\Users\\Ammir\\Desktop\\expto
+[41424] Done
+[41424] backup morris operation: Extract
+[41425] \t- arguments: installer://morris/170526.0.1iconengines.7z, C:\\Users\\Ammir\\Desktop\\expto
+[41425] Done
+[41425] perform morris operation: Extract
+[41425] \t- arguments: installer://morris/170526.0.1iconengines.7z, C:\\Users\\Ammir\\Desktop\\expto
+[41659] Done
+[41659] backup morris operation: Extract
+[41659] \t- arguments: installer://morris/170526.0.1imageformats.7z, C:\\Users\\Ammir\\Desktop\\expto
+[41659] Done
+[41660] perform morris operation: Extract
+[41660] \t- arguments: installer://morris/170526.0.1imageformats.7z, C:\\Users\\Ammir\\Desktop\\expto
+[42168] Done
+[42168] backup morris operation: Extract
+[42168] \t- arguments: installer://morris/170526.0.1platforms.7z, C:\\Users\\Ammir\\Desktop\\expto
+[42168] Done
+[42168] perform morris operation: Extract
+[42168] \t- arguments: installer://morris/170526.0.1platforms.7z, C:\\Users\\Ammir\\Desktop\\expto
+[42250] Done
+[42250] backup morris operation: Extract
+[42250] \t- arguments: installer://morris/170526.0.1sqldrivers.7z, C:\\Users\\Ammir\\Desktop\\expto
+[42250] Done
+[42250] perform morris operation: Extract
+[42250] \t- arguments: installer://morris/170526.0.1sqldrivers.7z, C:\\Users\\Ammir\\Desktop\\expto
+[42378] Done
+[42378] backup morris operation: Extract
+[42378] \t- arguments: installer://morris/170526.0.1translations.7z, C:\\Users\\Ammir\\Desktop\\expto
+[42378] Done
+[42378] perform morris operation: Extract
+[42378] \t- arguments: installer://morris/170526.0.1translations.7z, C:\\Users\\Ammir\\Desktop\\expto
+[42763] Done
+[42763] backup morris operation: Extract
+[42764] \t- arguments: installer://morris/170526.0.1videos.7z, C:\\Users\\Ammir\\Desktop\\expto
+[42764] Done
+[42764] perform morris operation: Extract
+[42764] \t- arguments: installer://morris/170526.0.1videos.7z, C:\\Users\\Ammir\\Desktop\\expto
+[44195] Done
+[44196] backup morris operation: CreateShortcut
+[44196] \t- arguments: C:\\Users\\Ammir\\Desktop\\expto/Expto.exe, C:\\Users\\Ammir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Expt-o Morris/Expt-o Morris.lnk, workingDirectory=C:\\Users\\Ammir\\Desktop\\expto
+[44196] Done
+[44196] perform morris operation: CreateShortcut
+[44196] \t- arguments: C:\\Users\\Ammir\\Desktop\\expto/Expto.exe, C:\\Users\\Ammir\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Expt-o Morris/Expt-o Morris.lnk, workingDirectory=C:\\Users\\Ammir\\Desktop\\expto
+[44357] Done
+[44467] Writing maintenance tool: "C:\\Users\\Ammir\\Desktop\\expto/maintenancetool.exe.new"
+[45154] Wrote permissions for maintenance tool.
+[45790] Maintenance tool restart: false.
+[45792] SHOW FINISHED PAGE

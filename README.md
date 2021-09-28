@@ -11,9 +11,12 @@ Framework: Qt<br>
 Library: PointCloud 3D<br>
 <br>
 
+# Instalação
+Para instalar o Expt-o é preciso baixar o arquivo ZIP abaixo e descompactá-lo na pasta de sua preferência.<br>
+
 [Download Expt-o](https://github.com/gilbriatore/expt-o/raw/main/download/Expt-o.zip)
 
-# Pastas:
+# Pastas
 download: arquivo zip com a versão executável do projeto.<br>
 src_2d: código fonte da versão de captura e rastreamento 2D.<br>
 src_3d: código fonte da versão de captura e rastreamento 3D.<br>
