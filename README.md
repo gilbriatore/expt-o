@@ -25,13 +25,13 @@ Para captura de dados o software requer o Kinect.
 
 # Telas:
 01. Tela de rastreamento<br>
-![Tela de rastreamento](https://github.com/gilbriatore/expt-o/blob/main/telas/01_rastreamento.jpg?raw=true
+![Tela de rastreamento](https://github.com/gilbriatore/expt-o/blob/main/Telas/01_rastreamento.jpg?raw=true
 <br>
 02. Tela de rastreamento<br>
-![Tela de rastreamento](https://github.com/gilbriatore/expt-o/blob/main/telas/07_captura_01.jpg?raw=true
+![Tela de rastreamento](https://github.com/gilbriatore/expt-o/blob/telas/07_captura_01.jpg?raw=true
 <br>
 03. Tela da arena<br>
-![Tela da arena](https://github.com/gilbriatore/expt-o/blob/main/telas/02_arena.jpg?raw=true
+![Tela da arena](https://github.com/gilbriatore/expt-o/blob/telas/02_arena.jpg?raw=true
 <br>
 04. Tela de detecção<br>
 ![Tela de detecção](https://github.com/gilbriatore/expt-o/blob/main/telas/03_deteccao.jpg?raw=true
