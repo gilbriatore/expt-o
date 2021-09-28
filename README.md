@@ -7,9 +7,7 @@ Coorientador Prof. Dr. Alessandro Brawerman<br>
 Mestrando e desenvolvedor Geucimar Brilhador<br>
 <br>
 Linguagem: C++<br>
-Framework: Qt<br>
-Library: PointCloud 3D<br>
-<br>
+Frameworks e bibliotecas: Qt, OpenCV e PointCloud 3D<br>
 
 # Instalação
 Para instalar o Expt-o é preciso baixar o arquivo ZIP abaixo e descompactá-lo na pasta de sua preferência.<br>
