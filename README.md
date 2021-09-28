@@ -10,7 +10,7 @@ Linguagem: C++<br>
 Frameworks e bibliotecas: Qt, OpenCV e PointCloud 3D<br>
 
 # Instalação
-Para instalar o Expt-o é preciso baixar o arquivo ZIP abaixo e descompactá-lo na pasta de sua preferência.<br>
+Para instalar o Expt-o é preciso baixar o arquivo ZIP no link abaixo e descompactá-lo na pasta de sua preferência.<br>
 
 [Download Expt-o](https://github.com/gilbriatore/expt-o/raw/main/download/Expt-o.zip)
 
